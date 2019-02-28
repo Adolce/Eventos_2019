@@ -7,8 +7,11 @@ Caso alguma parte e/ou totalidade, seja utilizada peço a gentileza de citarem a
 Caso tenham interesse de um conteúdo personalizado, consultoria ou treinamento pessoal ou in-company, por favor, fique a vontade para me contactar, dependendo do tema tenho parceiros que atuam junto comigo ou que posso fazer a indicação caso eu não possa atender ou esteja fora do meu escopo.
 
 06/02/2019 - MBA UNIP Alphaville - Transformação Digital utilizando DevOps e DevSecOps (Arquivo não coube devido ao tamanho)
+
 11/02/2018 - Tech Chat Day: LGPD  - Lei Geral de Proteção de Dados (Evento fechado "in-company" sob demanda)
+
 13/02/2019 - OWASP TOP 10 para QA abordagem sobre Governança e Conformidade
+
 14/02/2019 - OWASP TOP 10 para QA abordagem sobre o que Automatizar e o que Não
 
 20/02/2019 - Meetup sobre LGPD - Vídeo no You Tube da Entrevista 
