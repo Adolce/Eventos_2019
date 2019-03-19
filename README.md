@@ -20,8 +20,8 @@ https://www.youtube.com/watch?v=vHZt2dgDlRE
 
 08/03/2019 - Women Dev Summit Boas Práticasde DevSecOps para QA´s
 
-24/04/2019 - Trilha NO SQL - TDC Floripa - Migrando de SQL para NO SQL Como não "falir" seu Projeto
-
+27/04/2019 - Trilha NO SQL - TDC Floripa - Migrando de SQL para NO SQL Como não "falir" seu Projeto
+13 a 15/06/2019 - Trilha Cloud, Containers e DevOps -  TDC Belo Horizonte
 
 
 Linkedin:https://www.linkedin.com/in/alessandramonteiromartins/
