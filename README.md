@@ -24,6 +24,7 @@ https://www.youtube.com/watch?v=vHZt2dgDlRE
 
 13/06 a 15/06/2019 - Trilha Cloud, Containers e DevOps -  TDC Belo Horizonte
 
+16/07 a 20/07/2019 - Trilha Arquitetura de Dados - TDC São Paulo
 
 Linkedin:https://www.linkedin.com/in/alessandramonteiromartins/
 
