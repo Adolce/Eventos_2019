@@ -22,9 +22,21 @@ https://www.youtube.com/watch?v=vHZt2dgDlRE
 
 27/04/2019 - Trilha NO SQL - TDC Floripa - Migrando de SQL para NO SQL Como não "falir" seu Projeto
 
+18/05 - DBA Developers Summit - iMasters São Paulo - Arquitetando seus Dados para LGPD
+
+26/05 - OWASP SP - no SecurityBSides SP - Uma visão de Arquitetura da Informação para Adequação a LGPD
+
+26/05 - Oficina no SecurityBSides SP - DevSecOps como Estratégia para Security and Privacy by Design
+
 13/06 a 15/06/2019 - Trilha Cloud, Containers e DevOps -  TDC Belo Horizonte
 
 16/07 a 20/07/2019 - Trilha Arquitetura de Dados - TDC São Paulo
+
+16/07 a 20/07/2019 - Trilha Arquitetura de Corporativa - TDC São Paulo - Arquitetura Corporativa e da Informação alinhadas para LGPD
+
+16/07 a 20/07/2019 - Trilha Design de Código - TDC São Paulo - Code Smell e Métricas para Qualidade de Código
+
+
 
 Linkedin:https://www.linkedin.com/in/alessandramonteiromartins/
 
