@@ -6,13 +6,13 @@ Caso alguma parte e/ou totalidade, seja utilizada peço a gentileza de citarem a
 
 Caso tenham interesse de um conteúdo personalizado, consultoria ou treinamento pessoal ou in-company, por favor, fique a vontade para me contactar, dependendo do tema tenho parceiros que atuam junto comigo ou que posso fazer a indicação caso eu não possa atender ou esteja fora do meu escopo.
 
-06/02/2019 - MBA UNIP Alphaville - Transformação Digital utilizando DevOps e DevSecOps (Arquivo não coube devido ao tamanho)
+06/02/2019 - MBA UNIP Alphaville - TRANSOFRMAÇÃO DIGITAL UTILIZANDO DEVOPS E DEVSECOPS (Arquivo não coube devido ao tamanho)
 
-11/02/2018 - Tech Chat Day: LGPD  - Lei Geral de Proteção de Dados (Evento fechado "in-company" sob demanda)
+11/02/2018 - Tech Chat Day: LGPD  - LEI GERAL DE PROTEÇÃO DE DADOS (Evento fechado "in-company" sob demanda)
 
-13/02/2019 - OWASP TOP 10 para QA abordagem sobre Governança e Conformidade
+13/02/2019 - OWASP TOP 10 PARA QA ABORDAGEM SOBRE GOVERNANÇA E CONFORMIDADE
 
-14/02/2019 - OWASP TOP 10 para QA abordagem sobre o que Automatizar e o que Não
+14/02/2019 - OWASP TOP 10 PARA QA ABORDAGEM SOBRE O QUE AUTOMATIZAR E O QUE NÃO
 
 20/02/2019 - MEETUP CYBERSECURITY GIRLS - LEI GERAL DE PROTEÇÃO DE DADOS - LGPD - Vídeo no You Tube da Entrevista 
 https://www.youtube.com/watch?v=vHZt2dgDlRE
@@ -24,9 +24,9 @@ https://www.youtube.com/watch?v=vHZt2dgDlRE
 
 18/05 - DBA DEVELOPERS SUMMIT - iMASTERS SÃO PAULO - ARQUITETANDO SEUS DADOS PARA LGPD
 
-26/05 - OWASP SP - no SecurityBSides SP - Uma visão de Arquitetura da Informação para Adequação a LGPD
+26/05 - OWASP SP - no SecurityBSides SP - UMA VISÃO DE ARQUITETURA DA INFORMAÇÃO PARA ADEQUAÇÃO A LGPD
 
-26/05 - Oficina no SecurityBSides SP - DevSecOps como Estratégia para Security and Privacy by Design
+26/05 - Oficina no SecurityBSides SP - DEVSECOPS COMO ESTRATÉGIA PARA SECURITY E PRIVACY BY DESIGN
 
 29/06 - INICIANDO A JORNADA DEVOPS- C6 BANK EVENTO FEMMEIT
 
@@ -46,9 +46,9 @@ WEBINAR - EXPLORANDO TI - AGOSTO/2019
 
 07/09 -JORNADA SECURITY BY DESIGN - HACKTOWN - SANTA RITA DO SAPUCAÍ- MINAS GERAIS
 
-18/09 - MIND THE SEC - USABLE SECURITY, EXPERIÊNCIA DO USUÁRIO E COMO ISSO ESTÁ RELACIONADO AO PRIVACY BY DESIGN - São Paulo -Grand Hyatt
+18/09 - MIND THE SEC - USABLE SECURITY, EXPERIÊNCIA DO USUÁRIO E COMO ISSO ESTÁ RELACIONADO AO PRIVACY BY DESIGN - GRAND HYATT - SÃO PAULO
 
-01/10 - Daryus Meeting - 
+01/10 - DARYUS BUSINESS METTING - ARQUITETANDO SEUS DADOS EM CONFORMIDADE COM A LGPD
 
 10/10 a 12/10 - TRILHA DESIGN DE CÓDIGO -  MÉTRICAS PARA QUALIDADE DE CÓDIGO E CODE SMELL - THE DEVEOLPERS CONFERENCE - TDC RECIFE
 
@@ -64,15 +64,20 @@ WEBINAR - EXPLORANDO TI - AGOSTO/2019
 
 26/10 - H2HC - SECURITY BY DESIGN - SÃO PAULO
 
-29/10 - SECURITY LEADERS - São Paulo
+29/10 - SECURITY LEADERS - IBRASPD - INSTITUTO BRASILEIRO DE SEGURANÇA PROTEÇÃO E PRIVACIDADE DE DADOS - SÃO PAULO
 
-23/11 - ROADSEC - .... - SÃO PAULO
+22/11 - SHE´STECH- DATA PROTECTION & SECURITY BY DESIGN - BELO HORIZONTE
+
+23/11 - ROADSEC - Security by Design  CyberSecuriGirlsBR- SÃO PAULO
+23/11 - ROADSEC - Usable Security  QA Caiçara- SÃO PAULO
 
 27/11 - TRILHA DEVOPS - UMA JORNADA DEVOPS DESAFIOS E RECOMPENSAS - THE DEVELOPERS CONFERENCE - TDC PORTO ALEGRE
 
 30/11 - TRILHA CUSTOMER SUCESS - SEGURANÇA E RISCOS E O QUE ISSO TEM HAVER COM CUSTOMER SUCCESS ? - THE DEVELOPERS CONFERENCE - TDC PORTO ALEGRE
 
 30/11 - TRILHA DESIGN DE CÓDIGO - MÉTRICAS PARA QUALIDADE DE CÓDIGO E CODE SMELL - THE DEVELOPERS CONFERENCE - TDC PORTO ALEGRE 
+
+11/12 - AIFEST - UNIVERSIDADE SÃO JUDAS TADEU - SÃO PAULO
 
 
 
