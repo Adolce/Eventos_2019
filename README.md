@@ -79,6 +79,7 @@ WEBINAR - EXPLORANDO TI - AGOSTO/2019
 
 11/12 - AIFEST - UNIVERSIDADE SÃO JUDAS TADEU - SÃO PAULO
 
+19/12 - Meetp Cedro Technologies - Inteligência Artificial e LGPD Desafios
 
 
 
